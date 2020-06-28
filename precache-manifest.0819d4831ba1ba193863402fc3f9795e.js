@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cefdeb0dae71659e05b1fe33b4547c60",
+    "revision": "9570b00499911609be53696d9f31ccde",
     "url": "/yarishPortfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yarishPortfolio/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "e727eef687f217f38fdc",
-    "url": "/yarishPortfolio/static/css/main.996263f5.chunk.css"
+    "revision": "35b53ace705f51544545",
+    "url": "/yarishPortfolio/static/css/main.5a7a44f2.chunk.css"
   },
   {
     "revision": "21db1b32634a15726967",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yarishPortfolio/static/js/2.0f55f791.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e727eef687f217f38fdc",
+    "revision": "35b53ace705f51544545",
     "url": "/yarishPortfolio/static/js/main.44340c3c.chunk.js"
   },
   {
